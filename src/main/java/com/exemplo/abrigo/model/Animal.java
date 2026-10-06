@@ -45,7 +45,6 @@ public class Animal {
     public String getRaca() { return raca; }
     public void setRaca(String raca) { this.raca = raca; }
 
-    public Integer idade() { return idade; }
     public Integer getIdade() { return idade; }
     public void setIdade(Integer idade) { this.idade = idade; }
 
